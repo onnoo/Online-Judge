@@ -15,7 +15,8 @@
           return (int(n) + 1) / digit
       else:
           return int(n) / digit
-
+  # 또는 int(n + 0.5)
+  
   round(1.45, 1)  # 1.5 (올림)
   round(2.45, 1)  # 2.5 (올림)
   ```
