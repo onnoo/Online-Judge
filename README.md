@@ -2,6 +2,24 @@
 
 ## Python 복기
 
+* python의 `input()` 함수는 느리다 → `import sys; input = sys.stdin.readline`를 대신 사용하기
+* python의 `round()` 함수는 의도하지 않게 동작하므로 사용할 때 주의하기
+  ```python
+  round(1.45, 1)  # 1.4 (버림)
+  round(2.45, 1)  # 2.5 (올림)
+
+  def round(n, digit):
+      digit = 10 ** digit
+      n = n * digit
+      if n - int(n) >= 0.5:
+          return (int(n) + 1) / digit
+      else:
+          return int(n) / digit
+
+  round(1.45, 1)  # 1.5 (올림)
+  round(2.45, 1)  # 2.5 (올림)
+  ```
+
 
 | 차수 | # | 문제 | 티어 |
 |---|---|---|:---:|
