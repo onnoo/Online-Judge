@@ -21,6 +21,19 @@
   round(1.45, 1)  # 1.5 (올림)
   round(2.45, 1)  # 2.5 (올림)
   ```
+* 최소 공배수, 최대 공약수
+  ```python
+  def gcd(a, b):
+      if (b == 0):
+          return a
+      else:
+          return gcd(b, a % b)
+  
+  
+  def lcm(a, b):
+      g = gcd(a, b)
+      return g * (a / g) * (b / g)
+  ```
 
 ### 어려웠던 문제 (⚠️누르면 스포)
 <details>
