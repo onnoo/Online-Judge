@@ -20,6 +20,14 @@
   round(1.45, 1)  # 1.5 (올림)
   round(2.45, 1)  # 2.5 (올림)
   ```
+  
+<details>
+  <summary><a href="https://www.acmicpc.net/problem/17241">Pineapple Advertising (17241)</a></summary>
+  
+  ```
+  그래프 탐색 문제, 모든 간선을 1번씩 방문한다는 아이디어, 이전 방문이 다음 방문에 영향을 주는 경우에 유용?
+  ```
+</details>
 
 
 | 차수 | # | 문제 | 티어 |
