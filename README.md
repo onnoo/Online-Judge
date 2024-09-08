@@ -20,7 +20,8 @@
   round(1.45, 1)  # 1.5 (올림)
   round(2.45, 1)  # 2.5 (올림)
   ```
-  
+
+### 어려웠던 문제 (⚠️누르면 스포)
 <details>
   <summary><a href="https://www.acmicpc.net/problem/17241">Pineapple Advertising (17241)</a></summary>
   
@@ -29,6 +30,7 @@
   ```
 </details>
 
+### 일일 문제풀이
 
 | 차수 | # | 문제 | 티어 |
 |---|---|---|:---:|
