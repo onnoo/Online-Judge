@@ -61,3 +61,9 @@
 | Day 3 | [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="14px"> |
 | Day 3 | [10828](https://www.acmicpc.net/problem/10828) | 스택  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="14px"> |
 | Day 3 | [11650](https://www.acmicpc.net/problem/11650) | 좌표 정렬하기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="14px"> |
+| Day 4 | [2960](https://www.acmicpc.net/problem/2960) | 에라토스테네스의 체 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="14px"> |
+| Day 4 | [2606](https://www.acmicpc.net/problem/2606) | 바이러스 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="14px"> |
+| Day 4 | [10773](https://www.acmicpc.net/problem/10773) | 제로 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="14px"> |
+| Day 4 | [2869](https://www.acmicpc.net/problem/2869) | 달팽이는 올라가고 싶다 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="14px"> |
+
+<!-- https://d2gd6pc034wcta.cloudfront.net/tier/6.svg : silver 5 -->
