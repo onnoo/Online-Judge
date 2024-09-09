@@ -1,4 +1,6 @@
-
+## TODOs
+- 플로이드–워셜 floyd_warshall ?
+- 투 포인터 ?
 
 ## Python 복기
 
@@ -20,7 +22,30 @@
   round(1.45, 1)  # 1.5 (올림)
   round(2.45, 1)  # 2.5 (올림)
   ```
+* 최소 공배수, 최대 공약수
+  ```python
+  def gcd(a, b):
+      if (b == 0):
+          return a
+      else:
+          return gcd(b, a % b)
+  
+  
+  def lcm(a, b):
+      g = gcd(a, b)
+      return g * (a / g) * (b / g)
+  ```
 
+### 어려웠던 문제 (⚠️누르면 스포)
+<details>
+  <summary><a href="https://www.acmicpc.net/problem/17241">Pineapple Advertising (17241)</a></summary>
+  
+  ```
+  그래프 탐색 문제, 모든 간선을 1번씩 방문한다는 아이디어, 이전 방문이 다음 방문에 영향을 주는 경우에 유용?
+  ```
+</details>
+
+### 일일 문제풀이
 
 | 차수 | # | 문제 | 티어 |
 |---|---|---|:---:|
