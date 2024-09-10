@@ -3,6 +3,7 @@
 - 투 포인터 ?
 - DP?
 - 힙큐?
+- min-max heap?
 
 ## Python 복기
 
