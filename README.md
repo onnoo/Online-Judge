@@ -1,6 +1,8 @@
 ## TODOs
 - 플로이드–워셜 floyd_warshall ?
 - 투 포인터 ?
+- DP?
+- 힙큐?
 
 ## Python 복기
 
@@ -73,5 +75,9 @@
 | Day 4 | [2606](https://www.acmicpc.net/problem/2606) | 바이러스 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="14px"> |
 | Day 4 | [10773](https://www.acmicpc.net/problem/10773) | 제로 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="14px"> |
 | Day 4 | [2869](https://www.acmicpc.net/problem/2869) | 달팽이는 올라가고 싶다 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="14px"> |
+| Day 5 | [4949](https://www.acmicpc.net/problem/4949) | 균형잡힌 세상 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="14px"> |
+| Day 5 | [2164](https://www.acmicpc.net/problem/2164) | 카드2 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="14px"> |
+| Day 5 | [21736](https://www.acmicpc.net/problem/21736) | 헌내기는 친구가 필요해 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="14px"> |
+| Day 5 | [1654](https://www.acmicpc.net/problem/1654) | 랜선 자르기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="14px"> |
 
 <!-- https://d2gd6pc034wcta.cloudfront.net/tier/6.svg : silver 5 -->
