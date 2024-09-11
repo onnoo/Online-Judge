@@ -81,5 +81,10 @@
 | Day 5 | [2164](https://www.acmicpc.net/problem/2164) | 카드2 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="14px"> |
 | Day 5 | [21736](https://www.acmicpc.net/problem/21736) | 헌내기는 친구가 필요해 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="14px"> |
 | Day 5 | [1654](https://www.acmicpc.net/problem/1654) | 랜선 자르기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="14px"> |
+| Day 6 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="14px"> |
+| Day 6 | [1712](https://www.acmicpc.net/problem/1712) | 손익분기점 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="14px"> |
+| Day 6 | [28113](https://www.acmicpc.net/problem/28113) | 정보섬의 대중교통 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="14px"> |
+| Day 6 | [2884](https://www.acmicpc.net/problem/2884) | 알람 시계 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="14px"> |
+| Day 6 | [17952](https://www.acmicpc.net/problem/17952) | 과제는 끝나지 않아! | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="14px"> |
 
 <!-- https://d2gd6pc034wcta.cloudfront.net/tier/6.svg : silver 5 -->
