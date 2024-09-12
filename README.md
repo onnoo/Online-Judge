@@ -86,5 +86,9 @@
 | Day 6 | [28113](https://www.acmicpc.net/problem/28113) | 정보섬의 대중교통 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="14px"> |
 | Day 6 | [2884](https://www.acmicpc.net/problem/2884) | 알람 시계 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="14px"> |
 | Day 6 | [17952](https://www.acmicpc.net/problem/17952) | 과제는 끝나지 않아! | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="14px"> |
+| Day 7 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="14px"> |
+| Day 7 | [1764](https://www.acmicpc.net/problem/1764) | 듣보잡 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="14px"> |
+
+
 
 <!-- https://d2gd6pc034wcta.cloudfront.net/tier/6.svg : silver 5 -->
