@@ -9,6 +9,8 @@
 
 * python의 `input()` 함수는 느리다 → `import sys; input = sys.stdin.readline`를 대신 사용하기
 * `queue.PriorityQueue`보다 `heapq`가 더 빠르다?
+* **stack/queue** → `collections.deque` 활용
+* 정렬 → `functools.cmp_to_key`, (a, b) → 1 반환시 순서 변경
 * python의 `round()` 함수는 의도하지 않게 동작하므로 사용할 때 주의하기
   ```python
   round(1.45, 1)  # 1.4 (버림)
