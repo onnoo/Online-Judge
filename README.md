@@ -1,16 +1,30 @@
 ## TODOs
-- 플로이드–워셜 floyd_warshall ?
-- 투 포인터 ?
-- DP?
-- 힙큐?
-- min-max heap?
+- [ ] 플로이드–워셜 floyd_warshall ?
+- [ ] 투 포인터 ?
+- [x]  DP?
+- [x] 힙큐, min-max heap
 
 ## Python 복기
 
 * python의 `input()` 함수는 느리다 → `import sys; input = sys.stdin.readline`를 대신 사용하기
+* **DP (1)** : 낮은 단계의 함수값부터 계산 결과를 채워나간다 (큰 dp 리스트 선언)
 * `queue.PriorityQueue`보다 `heapq`가 더 빠르다?
+  ```python
+  import heapq
+
+  arr = []
+  heapq.heapify(arr)  # min heap
+  arr[0]  # 최솟값 참조
+  
+  heapq.heappush(arr, 1)
+  val = heapq.heappop(arr)
+
+  # maxval로 만들려면
+  heapq.heappush(arr, (-1, 1))
+  _, val = heapq.heappop(arr)
+  ```
 * **stack/queue** → `collections.deque` 활용
-* 정렬 → `functools.cmp_to_key`, (a, b) → 1 반환시 순서 변경 ([프로그래머스 - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746))
+* **정렬** → `functools.cmp_to_key`, (a, b) → 1 반환시 순서 변경 ([프로그래머스 - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746))
 * python의 `round()` 함수는 의도하지 않게 동작하므로 사용할 때 주의하기
   ```python
   round(1.45, 1)  # 1.4 (버림)
