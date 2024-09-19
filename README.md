@@ -106,6 +106,7 @@
 | Day 7 | [1764](https://www.acmicpc.net/problem/1764) | 듣보잡 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="14px"> |
 | Day 8 | [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="14px"> |
 | Day 8 | [2667](https://www.acmicpc.net/problem/2667) | 단지번호붙이기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="14px"> |
+| Day 9 | [10026](https://www.acmicpc.net/problem/10026) | 적록색약 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="14px"> |
 
 
 
