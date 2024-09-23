@@ -3,6 +3,7 @@
 - [ ] 투 포인터 ?
 - [x]  DP?
 - [x] 힙큐, min-max heap
+- [x] 밀러-라빈 소수판별법 (N-1=d*d^r, `pow(base, exp, mode)`, n-1인 이유는 우항에 n을 더했기 때문)
 
 ## Python 복기
 
